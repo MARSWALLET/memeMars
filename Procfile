@@ -1,0 +1,1 @@
+bot: node index.js --action=2
